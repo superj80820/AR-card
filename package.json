@@ -1,0 +1,22 @@
+{
+  "name": "ar-card",
+  "version": "1.0.0",
+  "description": "[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superj80820/AR-card.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superj80820/AR-card/issues"
+  },
+  "homepage": "https://github.com/superj80820/AR-card#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
