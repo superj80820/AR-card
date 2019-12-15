@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/superj80820/AR-card#readme",
   "dependencies": {
+    "ejs": "^3.0.1",
     "express": "^4.17.1"
   }
 }
